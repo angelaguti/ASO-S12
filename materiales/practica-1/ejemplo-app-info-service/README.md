@@ -98,3 +98,4 @@ Esta aplicación se utiliza en todas las prácticas de S12:
 - Los secretos deben gestionarse mediante Secret Manager en producción
 - El endpoint `/stats` demuestra escalado horizontal (cada instancia tiene su contador)
 
+-TESTER
