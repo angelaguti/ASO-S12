@@ -1,0 +1,4 @@
+FROM locustio/locust:latest
+
+# Instalar Faker para generar datos aleatorios
+RUN pip install --no-cache-dir faker
